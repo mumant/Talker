@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talker", "Talker.csproj", "{B1B2A053-FA54-468B-93B6-2B7599004767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B2A053-FA54-468B-93B6-2B7599004767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B2A053-FA54-468B-93B6-2B7599004767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B2A053-FA54-468B-93B6-2B7599004767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B2A053-FA54-468B-93B6-2B7599004767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797F8AF9-F7F2-459D-BDF9-B5FD986069B2}
+	EndGlobalSection
+EndGlobal
